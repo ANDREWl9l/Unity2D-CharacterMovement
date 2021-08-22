@@ -1,5 +1,5 @@
 # Unity2D-CharacterMovement
-A free to use Character Controller for 2D platformer games in Unity.
+A free to use Character Movement for 2D platformer games in Unity.
 
 ![2D Pixel Image](https://imgur.com/BeMcSAK.jpg)
 
